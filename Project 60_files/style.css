@@ -1,0 +1,97 @@
+body {
+    text-align: center;
+    background: linear-gradient(#1286d4, #399B00);
+}
+
+img {
+    width: 100;
+    height: 100;
+    border-radius: 50%;
+
+}
+
+#myname {
+    font-family: 'Courgette', cursive;
+}
+
+#Favorite_food {
+    padding: 40px;
+    text-align: center:
+}
+
+h1 {
+    font-family: fantasy font-size:18px;
+}
+
+p {
+    font-size: 18px;
+    color: #8b1B7R;
+
+}
+
+h2 {
+    font-size: 20px;
+    color: #553487;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.menu a {
+    color: black !important;
+}
+
+
+.link {
+    color: navajowhite;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+
+.link:hover {
+    background-color: beige;
+}
+
+
+
+#picture {
+    width: auto;
+    height: 300px;
+    border-radius: 0%;
+
+    margin: 20px;
+}
+
+.food {
+    background: #1286d4;
+
+    background: linear-gradient(#1286d4, #399B00);
+    padding-top: 20px;
+}
+
+img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+
+    transform: scale(0.9);
+}
